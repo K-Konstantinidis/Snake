@@ -6,3 +6,5 @@ You can move the snake by pressing the arrow keys. While you are playing the gam
 
 The game is the original Snake version where if the snake head hits its body or the border of the screen, then the game ends. In the end screen is a Game Over message with the
 score. The score is the amount of apples you ate before losing.
+
+For more information about how the code works, there are lots of comments in the .java files to help you understand everything and follow along with ease!
